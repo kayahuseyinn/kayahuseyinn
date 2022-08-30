@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Transfer Learning ?](https://kayahuseyinn.medium.com/what-is-the-transfer-learning-d315c1d8df7f?source=rss-3964290f9816------2)
 - [?-Means](https://medium.com/machine-learning-t%C3%BCrkiye/means-c1bb16c6d20?source=rss-3964290f9816------2)
 - [Kümeleme &lpar;Clustering&rpar; Algoritmaları](https://medium.com/machine-learning-t%C3%BCrkiye/k%C3%BCmeleme-clustering-algoritmalar%C4%B1-d9235bbd7946?source=rss-3964290f9816------2)
 - [Classification Algorithms with Python](https://kayahuseyinn.medium.com/classification-algorithms-with-python-bb2e29f779d0?source=rss-3964290f9816------2)
-- [Yolov5 ile Formula 1 araçlarının tespiti](https://medium.com/machine-learning-t%C3%BCrkiye/yolov5-ile-formula-1-ara%C3%A7lar%C4%B1n%C4%B1n-tespiti-f3ff629fa41d?source=rss-3964290f9816------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
