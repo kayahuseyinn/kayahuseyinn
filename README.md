@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @kayahuseyinn</h1>
 <h3 align="center">Just a developer.</h3>
 
-- 🔭 I’m currently working on [EagleVision](https://github.com/kayahuseyinn/EagleVision)
+- 🔭 I’m currently working on [pyVisio](https://github.com/kayahuseyinn/pyVisio)
 
-- 🌱 I’m currently learning **Cloud computing.**
+- 🌱 I’m currently learning **TCP/UDP**
 
 - 📝 I regularly write articles on [kayahuseyinn.medium.com](kayahuseyinn.medium.com)
 
