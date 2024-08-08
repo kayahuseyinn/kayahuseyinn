@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Siber Dedektifin El Kitabı: Wireshark ile Gelişmiş Analiz Teknikleri](https://kayahuseyinn.medium.com/siber-dedektifin-el-kitab%C4%B1-wireshark-ile-geli%C5%9Fmi%C5%9F-analiz-teknikleri-72f5f9e8fb91?source=rss-3964290f9816------2)
 - [Kendi QR Kodlarınızı Yaratın](https://kayahuseyinn.medium.com/kendi-qr-kodlar%C4%B1n%C4%B1z%C4%B1-yarat%C4%B1n-c194764d4439?source=rss-3964290f9816------2)
 - [Today’s Content Creators: AI Writers!](https://kayahuseyinn.medium.com/todays-content-creators-ai-writers-6839d7875657?source=rss-3964290f9816------2)
 - [What is the Transfer Learning ?](https://kayahuseyinn.medium.com/what-is-the-transfer-learning-d315c1d8df7f?source=rss-3964290f9816------2)
-- [?-Means](https://medium.com/machine-learning-t%C3%BCrkiye/means-c1bb16c6d20?source=rss-3964290f9816------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
