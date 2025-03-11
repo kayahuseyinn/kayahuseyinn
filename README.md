@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Programlamayı Yeniden Düşünmek: Lisp &lpar;1. Bölüm&rpar;](https://kayahuseyinn.medium.com/programlamay%C4%B1-yeniden-d%C3%BC%C5%9F%C3%BCnmek-lisp-1-b%C3%B6l%C3%BCm-205e2f16501c?source=rss-3964290f9816------2)
 - [Seni kokundan tanırım&lpar;?&rpar;](https://kayahuseyinn.medium.com/seni-kokundan-tan%C4%B1r%C4%B1m-ea457c79f693?source=rss-3964290f9816------2)
 - [Siber Dedektifin El Kitabı: LLM Güvenliği ve Pentest Stratejileri](https://kayahuseyinn.medium.com/siber-dedektifin-el-kitab%C4%B1-llm-g%C3%BCvenli%C4%9Fi-ve-pentest-stratejileri-140ad59d67d9?source=rss-3964290f9816------2)
 - [Siber Dedektifin El Kitabı: Firmware Sömürü Teknikleri ve Güvenlik Zaafiyetleri](https://kayahuseyinn.medium.com/siber-dedektifin-el-kitab%C4%B1-firmware-s%C3%B6m%C3%BCr%C3%BC-teknikleri-ve-g%C3%BCvenlik-zaafiyetleri-d422e5e31860?source=rss-3964290f9816------2)
-- [Siber Dedektifin El Kitabı: Zero-Day Attack](https://kayahuseyinn.medium.com/siber-dedektifin-el-kitab%C4%B1-zero-day-attack-d8680b6f0741?source=rss-3964290f9816------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
