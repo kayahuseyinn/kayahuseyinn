@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatIfPy: If, Then.. Boom](https://kayahuseyinn.medium.com/whatifpy-if-then-boom-6499c3a06dc6?source=rss-3964290f9816------2)
 - [Programlamayı Yeniden Düşünmek: Lisp &lpar;2. Bölüm&rpar;](https://kayahuseyinn.medium.com/programlamay%C4%B1-yeniden-d%C3%BC%C5%9F%C3%BCnmek-lisp-2-b%C3%B6l%C3%BCm-241c0cdaf30c?source=rss-3964290f9816------2)
 - [Programlamayı Yeniden Düşünmek: Lisp &lpar;1. Bölüm&rpar;](https://kayahuseyinn.medium.com/programlamay%C4%B1-yeniden-d%C3%BC%C5%9F%C3%BCnmek-lisp-1-b%C3%B6l%C3%BCm-205e2f16501c?source=rss-3964290f9816------2)
 - [Seni kokundan tanırım&lpar;?&rpar;](https://kayahuseyinn.medium.com/seni-kokundan-tan%C4%B1r%C4%B1m-ea457c79f693?source=rss-3964290f9816------2)
-- [Siber Dedektifin El Kitabı: LLM Güvenliği ve Pentest Stratejileri](https://kayahuseyinn.medium.com/siber-dedektifin-el-kitab%C4%B1-llm-g%C3%BCvenli%C4%9Fi-ve-pentest-stratejileri-140ad59d67d9?source=rss-3964290f9816------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
